@@ -1,0 +1,15 @@
+Guildlines on How to Install Git on Local Machine.
+
+Git Installation on windows 
+Step 1. Open your search engine and type `git for windows `
+
+Step 2. Click on downloads according to your operating system.
+
+Git Installation on Mac 
+
+On your terminal, write any of this code
+`brew install git` Or `sudo port install git`
+
+Git Installation on Linux
+
+On your terminal, write `apt-get install git`

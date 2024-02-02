@@ -1,0 +1,17 @@
+Guildlines to Mrs. Chen Yong, on how she can create a GitHub account and clone repository to her local machine
+
+
+
+- Open <GitHub.com> from your search box
+
+- Click on sign up with your valid:
+    * Email
+    * Name
+    * username
+    * Password  
+
+> NT Ensure you verify your gmail to enable you continue.
+
+- Click on `New repository` to create repository by giving it a name, Description(optional) and a README file if necessary.
+
+- In other to clone repository on the local device, copy the URL of the new repository and on your local machine write `git clone < paste the URL here>`
